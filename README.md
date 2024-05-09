@@ -9,7 +9,11 @@ Instrucciones para configurar el proyecto localmente:
 ```bash
 git clone https://github.com/Hackathon-HBA/DS
 cd DS
-# Sigue esto con instrucciones para configurar el entorno e instalar dependencias
+```
+
+### Sigue esto con instrucciones para configurar el entorno e instalar dependencias
+
+```bash
 pip install -r requirements.txt
 ```
 

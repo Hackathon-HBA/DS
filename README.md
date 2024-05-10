@@ -16,23 +16,3 @@ cd DS
 ```bash
 pip install -r requirements.txt
 ```
-
-## Uso
-
-Cómo utilizar el proyecto después de la instalación:
-
-```bash
-python script_name.py # Reemplaza 'script_name.py' por el nombre de tu script
-```
-
-## Contribuir
-
-Instrucciones para contribuir al proyecto:
-
-Fork el repositorio.
-
-Crea una nueva rama (git checkout -b feature-nueva).
-
-Haz tus cambios.
-
-Envía tus cambios para revisión (git push origin feature-nueva).
